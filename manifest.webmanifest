@@ -1,0 +1,25 @@
+{
+    
+    "short_name":"newsapp",
+    "name":"Newsapp",
+    "start_url":".",
+    "icons":[
+        {
+            "src":"/images/logo.png",
+            "type":"image/png",
+            "sizes":"600x600",
+            "purpose": "any maskable"
+        },
+        {
+            "src":"/images/logo.png",
+            "type":"image/png",
+            "sizes":"800x800",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color":"#000000",
+    "backgroun_color":"#c095e3",
+    "display":"fullscreen",
+    "oreintation":"portrait"
+
+}
